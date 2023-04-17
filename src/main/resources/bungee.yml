@@ -1,0 +1,5 @@
+name: whereami
+version: '${project.version}'
+main: lynx.whereami.Whereami
+author: Lynx-Team-axellFumioo
+description: A simple whereami plugin for debugging.
